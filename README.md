@@ -475,7 +475,7 @@ Future logout() async {
 ```dart
 class ApiUrl {
   // Base URL adalah alamat utama backend API
-  static const String baseUrl = 'http://localhost/tokokita/public';
+  static const String baseUrl = 'http://localhost:8080';
   
   // Endpoint untuk registrasi user baru
   static const String registrasi = '$baseUrl/registrasi';
