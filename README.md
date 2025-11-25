@@ -1,4 +1,4 @@
-# Tugas9 - Pertemuan 11
+# Tugas 9 - Pertemuan 11
 
 ```
 Nama      : Daiva Paundra Gevano
@@ -34,6 +34,9 @@ lib/
 ## 📝 Proses Registrasi
 
 **File:** `lib/ui/registrasi_page.dart`
+
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/f3ecf09a-7397-4918-9c25-f23de236683e" />
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/4d3cd988-59b1-421f-a2b6-51f7c0658ff8" />
 
 ### Fungsi Utama:
 
@@ -99,6 +102,8 @@ class RegistrasiBloc {
 ## 🔐 Proses Login
 
 **File:** `lib/ui/login_page.dart`
+
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/7db1ccc5-fd5c-45fc-99e8-7795e2b0472f" />
 
 ### Fungsi Utama:
 
@@ -168,6 +173,8 @@ Future<String?> getToken() async {
 
 **File:** `lib/ui/produk_page.dart`
 
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/0f6a2bf8-44ab-49e5-b880-7f1781f2386b" />
+
 ```dart
 body: FutureBuilder<List>(
   // Panggil fungsi untuk mengambil data produk dari API
@@ -207,6 +214,8 @@ static Future<List<Produk>> getProduks() async {
 ### **2. Create - Tambah Produk**
 
 **File:** `lib/ui/produk_form.dart`
+
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/ea48e48c-dd4a-4e98-ba7b-c7c592cb779a" />
 
 ```dart
 void simpan() {
@@ -248,6 +257,8 @@ static Future addProduk({Produk? produk}) async {
 ### **3. Update - Edit Produk**
 
 **File:** `lib/ui/produk_form.dart`
+
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/f28a4057-3212-4391-a266-a2edb856dbc2" />
 
 ```dart
 void ubah() {
@@ -291,6 +302,8 @@ static Future updateProduk({required Produk produk}) async {
 ### **4. Delete - Hapus Produk**
 
 **File:** `lib/ui/produk_detail.dart`
+
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/76989dab-3a50-4adf-b5ac-36a3934b8288" />
 
 ```dart
 void confirmHapus() {
@@ -398,6 +411,8 @@ Token sangat penting karena backend API menggunakan token-based authentication u
 ## 🚪 Proses Logout
 
 **File:** `lib/ui/produk_page.dart`
+
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/34d1b20d-2291-43bf-b31f-a4b1140ab04a" />
 
 ```dart
 drawer: Drawer(
