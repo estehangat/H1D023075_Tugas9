@@ -1,17 +1,11 @@
-# 📱 TokoKita - Aplikasi Manajemen Produk
+# Tugas9 - Pertemuan 11
 
-> Aplikasi mobile untuk manajemen produk menggunakan Flutter dengan fitur autentikasi dan CRUD lengkap
-
-## 📋 Daftar Isi
-- [Fitur Aplikasi](#-fitur-aplikasi)
-- [Arsitektur Aplikasi](#-arsitektur-aplikasi)
-- [Proses Registrasi](#-proses-registrasi)
-- [Proses Login](#-proses-login)
-- [Proses CRUD Produk](#-proses-crud-produk)
-- [Proses Logout](#-proses-logout)
-- [Dependencies](#-dependencies)
-
----
+```
+Nama      : Daiva Paundra Gevano
+NIM       : H1D023075
+Shift     : A
+Shift KRS : F
+```
 
 ## 🌟 Fitur Aplikasi
 
